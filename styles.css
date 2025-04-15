@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    background: linear-gradient(270deg, #E79523, #EDAF5A);
+    background-size: 400% 400%;
+    animation: gradientFlow 12s ease infinite;
+    color: #3A3042;
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  @keyframes gradientFlow {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  
+  .card {
+    background-color: #F9EDCC;
+    color: #3A3042;
+    border-radius: 12px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+    padding: 1.5rem;
+    height: 100%;
+  }
+  
+  .card-content p,
+  .card-content .title,
+  .card-content .subtitle {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    white-space: normal;
+    margin-bottom: 0.5rem;
+  }
+  
+  .card .title {
+    font-size: 1.25rem;
+    font-weight: 700;
+    word-break: break-word;
+  }
+  
+
+h2 {
+    color:#F9EDCC;
+}
