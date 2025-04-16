@@ -26,4 +26,4 @@ Projeto desenvolvido como parte das atividades da FATEC, com foco no **consumo d
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   [git clone https://github.com/seu-usuario/seu-repositorio.git](https://github.com/kxvinn/PHP-API-FATEC.git)
