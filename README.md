@@ -1,6 +1,6 @@
-# 🌍 Consulta de Localidades - Projeto AULA FATEC
+# 🌍 Consulta de Localidades - Projeto AULA FATEC - Kevin Dourado, Gabriel Soares Velozo e Vinícius Ferraz Castro
 
-Projeto desenvolvido como parte das atividades da FATEC, com foco no **consumo de APIs públicas utilizando PHP**. A aplicação consome dados da **API de Localidades do IBGE**, permitindo ao usuário visualizar estados e municípios do Brasil de forma dinâmica e interativa.
+Projeto desenvolvido como parte das atividades de uma matéria da grade da FATEC, com foco no **consumo de APIs públicas utilizando PHP**. A aplicação consome dados da **API de Localidades do IBGE**, permitindo ao usuário visualizar estados e municípios do Brasil de forma dinâmica e interativa.
 
 ---
 
