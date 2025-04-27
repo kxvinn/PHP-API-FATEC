@@ -36,7 +36,7 @@ Este projeto foi desenvolvido como parte das atividades acadêmicas da FATEC, co
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/php-api-fatec.git
+   git clone https://github.com/kxvinn/PHP-API-FATEC.git
    cd php-api-fatec
    ```
 
@@ -79,21 +79,7 @@ php-api-fatec/
 ├── index.php                # Página principal da aplicação
 ├── readme.md                # Documentação do projeto
 ├── styles.css               # Personalizações sobre o Bulma
-├── printgetpostman.png              # Print da requisição GET no Postman
+├── printgetpostman.png      # Print da requisição GET no Postman
 
 ```
 
-## 📝 Licença
-
-Este projeto é distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
-
-## 🤝 Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias e correções.
-
-## 📧 Contato
-
-Para questões, sugestões ou feedback sobre o projeto:
-- Kevin Dourado - [kevin.email@example.com](mailto:kevin.email@example.com)
-- Gabriel Soares Velozo - [gabriel.email@example.com](mailto:gabriel.email@example.com)
-- Vinícius Ferraz Castro - [vinicius.email@example.com](mailto:vinicius.email@example.com)
