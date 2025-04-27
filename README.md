@@ -36,8 +36,8 @@ Este projeto foi desenvolvido como parte das atividades acadêmicas da FATEC, co
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/consulta-municipios-brasil.git
-   cd consulta-municipios-brasil
+   git clone https://github.com/seu-usuario/php-api-fatec.git
+   cd php-api-fatec
    ```
 
 2. **Configure seu servidor web:**
@@ -58,7 +58,7 @@ Este projeto foi desenvolvido como parte das atividades acadêmicas da FATEC, co
 Você também pode utilizar o servidor embutido do PHP para testes:
 
 ```bash
-cd consulta-municipios-brasil
+cd php-api-fatec
 php -S localhost:8000
 ```
 
