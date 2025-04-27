@@ -79,6 +79,7 @@ php-api-fatec/
 ├── index.php                # Página principal da aplicação
 ├── readme.md                # Documentação do projeto
 ├── styles.css               # Personalizações sobre o Bulma
+├── printgetpostman.png              # Print da requisição GET no Postman
 
 ```
 
